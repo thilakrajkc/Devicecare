@@ -1,0 +1,13 @@
+
+=kotlin:S125U"Remove this commented out code.(–±Ù8Ã ß«¿1
+Bkotlin:S125j"Remove this commented out code.(ÔÛŞƒùÿÿÿÿ8ûÎá«¿1
+=kotlin:S125s"Remove this commented out code.(Ù±‘Ò8üÎá«¿1
+Bkotlin:S125x"Remove this commented out code.(ÍÙ¾ğÿÿÿÿÿ8üÎá«¿1
+<kotlin:S125z"Remove this commented out code.(ä­O8Å ß«¿1
+Ckotlin:S125Ò"Remove this commented out code.(İˆô•ıÿÿÿÿ8Š§İ¿1
+Akotlin:S6310Ê"Avoid hardcoded dispatchers.(ş ¢µüÿÿÿÿ8…Š§İ¿1
+Akotlin:S6310"Avoid hardcoded dispatchers.(äÕ”øÿÿÿÿ8şÎá«¿1
+Xkotlin:S1144Ê"3Remove this unused private "initSerialPort" method.(ş ¢µüÿÿÿÿ8ˆŠ§İ¿1
+ykotlin:S6306"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(äÕ”øÿÿÿÿ8ƒÏá«¿1
+Rkotlin:S1135ˆ"2Complete the task associated to this TODO comment.(’©…ƒ8„Ïá«¿1
+Ykotlin:S1481¶"4Remove this unused "pendingIntentnn" local variable.(øØÙ øÿÿÿÿ8‘Š§İ¿1

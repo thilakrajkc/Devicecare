@@ -1,0 +1,20 @@
+
+Bkotlin:S1250"Remove this commented out code.(£ëı›ıÿÿÿÿ8‘¤„ı¿1
+=kotlin:S125B"Remove this commented out code.(õóÚ8’¤„ı¿1
+Bkotlin:S125M"Remove this commented out code.(¨¥á—şÿÿÿÿ8“¤„ı¿1
+Bkotlin:S125\"Remove this commented out code.(ÃûÖÏıÿÿÿÿ8“¤„ı¿1
+;kotlin:S63104"Avoid hardcoded dispatchers.(‘Â¿¹8•¤„ı¿1
+skotlin:S63064"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(‘Â¿¹8˜¤„ı¿1
+9kotlin:S1128"Remove this unused import.(ö®¿Ô8œ¤„ı¿1
+>kotlin:S1128"Remove this unused import.(ã£øûÿÿÿÿ8œ¤„ı¿1
+9kotlin:S1128"Remove this unused import.(³–°Ï8œ¤„ı¿1
+9kotlin:S1128"Remove this unused import.(©¶Ùç8œ¤„ı¿1
+8kotlin:S1128
+"Remove this unused import.(Ş‚½8œ¤„ı¿1
+>kotlin:S1128"Remove this unused import.(œÅÀ€ıÿÿÿÿ8œ¤„ı¿1
+>kotlin:S1128"Remove this unused import.(ÊÒÅ­ùÿÿÿÿ8œ¤„ı¿1
+9kotlin:S1128"Remove this unused import.(´Ùí8œ¤„ı¿1
+9kotlin:S1128"Remove this unused import.(ª»¦Û8œ¤„ı¿1
+>kotlin:S1128"Remove this unused import.(ÈÒÁûÿÿÿÿ8œ¤„ı¿1
+>kotlin:S1128"Remove this unused import.(Ò«Òßıÿÿÿÿ8€üÚÁ1
+>kotlin:S1128"Remove this unused import.(Ó¸Ñÿÿÿÿÿ8œ¤„ı¿1
